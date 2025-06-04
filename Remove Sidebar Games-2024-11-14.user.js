@@ -13,7 +13,7 @@
     'use strict';
 
     // Your code here...
-    const titles = ["World of Warcraft","Throne And Liberty", "Diablo III", "Diablo II: R", "Lost Ark","Torchlight Infinite","Destiny 2"]; // Add more titles as needed
+    const titles = ["Monster Hunter Wilds","World of Warcraft","Throne And Liberty", "Diablo III", "Diablo II: R", "Lost Ark","Torchlight Infinite","Destiny 2","Clair Obscur: Expedition 33","Elden Ring Nightreign"]; // Add more titles as needed
 
     const intervalId = setInterval(() => {
     titles.forEach((title) => {
